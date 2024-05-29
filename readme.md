@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/SmithTCM/">
-    <img src="./assets/img/Basic sourdough.jpeg" alt="Bread-1" width="130" height="100">
+    <img src="./assets/img/sourdough.jpeg" alt="Bread-1" width="130" height="100">
   </a>
 
   <h3 align="center">WD-Midterm-TX03</h3>
