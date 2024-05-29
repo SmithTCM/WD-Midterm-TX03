@@ -41,8 +41,6 @@ nav a{
 }
 
 
-
-
 img {
     width: 50%;
     height: auto;
@@ -50,6 +48,7 @@ img {
 
 .hero h1 {
     display:flex;
+    text-align: center;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
