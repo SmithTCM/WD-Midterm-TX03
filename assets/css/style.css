@@ -41,14 +41,7 @@ nav a{
 }
 
 
-.column-left {
-    display:flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-    color:#000;
-    padding: 0rem 2rem;
-}
+
 
 img {
     width: 50%;
