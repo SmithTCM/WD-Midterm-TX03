@@ -49,3 +49,8 @@ nav a{
     color:#000;
     padding: 0rem 2rem;
 }
+
+img {
+    width: 100%;
+    height: auto;
+}
