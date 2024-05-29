@@ -106,3 +106,4 @@ WD-ProjectName
 | W3Schools | Website was used to help with html code | https://www.w3schools.com/html/html_headings.asp |
 | W3Schools | Website was used to help with css code | https://www.w3schools.com/css |
 | Youtube | Followed code used in video as reference | https://www.youtube.com/watch?v=VegDvRLVlOI |
+| Pinterest | used Image in pinterest | https://www.pinterest.com/pin/482940760032522667/|
