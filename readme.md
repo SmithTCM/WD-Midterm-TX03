@@ -5,21 +5,17 @@
 <br />
 <div align="center">
   <a href="https://github.com/SmithTCM/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/Basic sourdough.jpeg" alt="Bread-1" width="130" height="100">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+
+  <h3 align="center">WD-Midterm-TX03</h3>
 </div>
-<!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Midterm for Web Design
 </div>
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 ![](https://visit-counter.vercel.app/counter.png?page=SmithTCM/WD-Midterm-TX03)
 
 ---
@@ -55,14 +51,17 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project?
+- This is a project for Midterms in Web Design
+- Whats the purpose?
+- To create a website
+- What are key components?
+- Header and Design
+- What technology used and how it is used?
+- The tech used includes HTML5 and CSS3
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -71,7 +70,6 @@ Guiding Question:
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules and Principles
 1. Always use ***WD-*** in the Title of the Project for the Subject
@@ -103,7 +101,7 @@ WD-ProjectName
 
 ## Resources
 
-<!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| W3Schools | Website was used to help with html code | https://www.w3schools.com/html/html_headings.asp |
+| W3Schools | Website was used to help with css code | https://www.w3schools.com/css |
