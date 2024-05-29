@@ -47,9 +47,9 @@ img {
 }
 
 .hero h1 {
-    display:flex;
+    display:grid;
     text-align: center;
-    flex-direction: column;
+    vertical-align: baseline;
     justify-content: center;
     align-items: flex-start;
     color: #000;
